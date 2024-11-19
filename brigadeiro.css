@@ -1,0 +1,77 @@
+html{
+    background-image: url(img/fundoxadrez.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100%;
+    padding: 10px 150px;
+}
+
+body{
+    width: 800px;
+    padding: 30px 50px;
+    margin: 50px auto;
+    
+    background-image: url(img/fundobranco.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.section1 {
+    padding: 20px;
+
+    .divisão1 {
+         h1 {
+            color:#000000;
+            font-size: 30px;
+            text-align: center;
+        }
+    }
+
+    .divisão2 {
+        background-image: url(img/.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        text-align: center;
+
+        img {
+            margin: 65px 79px
+        }
+    }
+}
+
+.section2 {
+    .divisão1 {
+         h1 {
+            color:#000000;
+            font-size: 30px;
+            text-align: center;
+        }
+    }
+}
+
+.section3 {
+    .divisão1 {
+        h1 {
+            color:#000000;
+            font-size: 30px;
+            text-align: center;
+        }
+    }
+}
+
+.section4 {
+    .divisão1 {
+        a {
+            text-decoration: none;
+            text-align: center;
+        }
+    }
+
+    .divisão2 {
+        p {
+            color:#ff000000;
+            font-size: 15px;
+            text-align: center;
+        }
+    }
+}
